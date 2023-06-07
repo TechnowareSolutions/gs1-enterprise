@@ -102,13 +102,12 @@ jwt.issuer=fiap-gs
 ```js
 {
 	"nome": "Nome",
-  "cpf": "000.000.000-00",
-  "email": "email@email.com",
-  "telefone": "(11) 99123-4567",
-  "nascimento": "2000-05-31",
-  "senha": "123456",
-  "endereco": "São Paulo"
-}
+    "cpf": "000.000.000-00",
+    "email": "email@email.com",
+    "telefone": "(11) 99123-4567",
+    "nascimento": "2000-05-31",
+    "senha": "123456",
+    "endereco": "São Paulo"
 }
 ```
 
